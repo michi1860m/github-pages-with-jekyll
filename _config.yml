@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Michaels SQL Tips
+author: Michael Fiedler
+email: sommersby17@web.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Microsoft SQL Tips Tricks zu always on et al 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: mjfheartonsleeve
+github_username:  michi1860m
 
 show_excerpts: true # set to false to remove excerpts on the homepage
